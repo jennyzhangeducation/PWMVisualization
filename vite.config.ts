@@ -17,4 +17,5 @@ export default defineConfig({
     outDir: 'dist/static',
     emptyOutDir: true,
   },
+  base: './',
 });
